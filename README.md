@@ -4,8 +4,8 @@
 ### Working
 ##### Keras Dataset is used for the following System. Program is trained for 30 epochs and runs at 66% accuracy.
 ### Dependencies:
-  pip install numpy
-  pip install pandas
-  pip install tensorflow
-  pip install keras
-  pip install opencv-python
+* pip install numpy
+* pip install pandas
+* pip install tensorflow
+* pip install keras
+* pip install opencv-python
