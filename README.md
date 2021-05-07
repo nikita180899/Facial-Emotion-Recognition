@@ -12,5 +12,4 @@
 ### Dataset
 #### Click here to download the dataset: https://drive.google.com/drive/folders/1vPuuHi-iHaQdfbnNdHfszchvOAE0gnu3?usp=sharing
 ### Usage:
-#### First Run Emotion_recognition.py => python Emotion_recognition.py
-#### Then run vidotester.py
+#### First Run Emotion_recognition.py => python Emotion_recognition.py, then run vidotester.py
