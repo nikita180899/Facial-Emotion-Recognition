@@ -14,12 +14,13 @@
 <a name="desc"></a>
 ## 1. Description
 
-sometext
+##### Facial emotion recognition is the process of detecting human emotions from facial expressions. The human brain recognizes emotions automatically, and software has now been developed that can recognize emotions as well. Facial emotion recognition has practical significance, has very broad application prospects, such that user friendly interface between man & machine, humanistic design of goods. Facial emotion recognition improved communication, has better empathy skills, acting with integrity.
+
 
 <a name="doc"></a>
 ## 2. Documents
 
-### Description
+
 ##### Facial emotion recognition is the process of detecting human emotions from facial expressions. The human brain recognizes emotions automatically, and software has now been developed that can recognize emotions as well. Facial emotion recognition has practical significance, has very broad application prospects, such that user friendly interface between man & machine, humanistic design of goods. Facial emotion recognition improved communication, has better empathy skills, acting with integrity.
 ### Documents
 ### Working
