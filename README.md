@@ -12,6 +12,7 @@
 * [ Dependencies. ](#dependencies )
 * [ Dataset. ](#dataset )
 * [ Usage. ](#usage )
+* [ Screenshot Folder. ](#ss )
 
 
 
@@ -48,6 +49,7 @@
 ### 5. Usage:
 #### First Run Emotion_recognition.py => python Emotion_recognition.py, then run vidotester.py
 
+<a name="ss"></a>
 ### 6. Screenshot Folder
 
 | Training Dataset                                         | Training Dataset                                         |
