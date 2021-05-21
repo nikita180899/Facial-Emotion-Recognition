@@ -13,6 +13,7 @@
 * [ Dataset. ](#dataset )
 * [ Usage. ](#usage )
 * [ Screenshot Folder. ](#ss )
+* [ Required Libraries. ](#rl )
 
 
 
@@ -63,3 +64,11 @@
 | Third Emotion: HAPPY                                                                                              | Fourth Emotion: FEAR |
 | -------------                                                                                                     | ------------- |
 |  ![name-of-you-image](https://github.com/nikita180899/Facial-Emotion-Recognition/blob/master/result3.png?raw=true)| ![name-of-you-image](https://github.com/nikita180899/Facial-Emotion-Recognition/blob/master/result4.png?raw=true) |
+
+<a name="rl"></a>
+### 7. Required Libraries
+* numpy : numpy NumPy supports a wide range of hardware and computing platforms, and plays well with distributed, GPU, and sparse array libraries. numpy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+* pandas : pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+* tensorflow : TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+* keras : Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library. 
+* open-cv : OpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.
