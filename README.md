@@ -60,4 +60,4 @@
 
 | Third Emotion: HAPPY                                                                                              | Fourth Emotion: FEAR |
 | -------------                                                                                                     | ------------- |
-| ![name-of-you-image](https://github.com/nikita180899/Facial-Emotion-Recognition/blob/master/result3.png?raw=true  | ![name-of-you-image](https://github.com/nikita180899/Facial-Emotion-Recognition/blob/master/result4.png?raw=true) |
+|  ![name-of-you-image](https://github.com/nikita180899/Facial-Emotion-Recognition/blob/master/result3.png?raw=true)| ![name-of-you-image](https://github.com/nikita180899/Facial-Emotion-Recognition/blob/master/result4.png?raw=true) |
