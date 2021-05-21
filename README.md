@@ -47,3 +47,7 @@
 <a name="usage"></a>
 ### 5. Usage:
 #### First Run Emotion_recognition.py => python Emotion_recognition.py, then run vidotester.py
+
+### 6. Screenshot Folder
+#### Training Dataset 
+https://github.com/nikita180899/Facial-Emotion-Recognition/blob/7fd9c0bcf95eeb193bbda2af51efc3f288f8cf50/cmd2.png
