@@ -9,6 +9,9 @@
 * [ Description. ](#desc)
 * [ Documents. ](#doc )
 * [ Working. ](#working )
+* [ Dependencies. ](#dependencies )
+* [ Dataset. ](#dataset )
+* [ Usage. ](#usage )
 
 
 
@@ -26,15 +29,21 @@
 * [sem_VII.pptx](https://github.com/nikita180899/Facial-Emotion-Recognition/files/6523653/sem_VII.pptx)
 * [final_be_project_report.pdf](https://github.com/nikita180899/Facial-Emotion-Recognition/files/6523627/final_be_project_report.pdf)
 <a name="working"></a>
-### Working
+### 3. Working
 ##### Kaggle Dataset is used for the following System. Program is trained for 30 epochs and runs at 66% accuracy.
+
+<a name="dependencies"></a>
 ### Dependencies:
 * pip install numpy
 * pip install pandas
 * pip install tensorflow
 * pip install keras
 * pip install opencv-python
-### Dataset
+
+<a name="dataset"></a>
+### 4. Dataset
 #### Click here to download the dataset: https://drive.google.com/drive/folders/1vPuuHi-iHaQdfbnNdHfszchvOAE0gnu3?usp=sharing
-### Usage:
+
+<a name="usage"></a>
+### 5. Usage:
 #### First Run Emotion_recognition.py => python Emotion_recognition.py, then run vidotester.py
